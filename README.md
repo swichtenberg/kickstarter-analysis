@@ -7,10 +7,10 @@ The purpose of the project is to gain a greater understanding of the factors tha
 Data from over 4,000 Kickstarter projects were imported to be analyzed in Excel. Data include both completed and live projects from around the world in multiple categories (e.g., technology, film, theater).
 ### Analysis of Outcomes Based on Launch Date
 The total number of successful, failed, and canceled theater projects were plotted with the month each project was initiated. As can be seen in the graph below, there is a spike in successful theater projects in spring/early summer and throughout the summer months.
-![image](https://user-images.githubusercontent.com/96216947/146678341-d972c3f1-f00e-4b07-9bb7-b821c37dfff1.png)
+![image](https://user-images.githubusercontent.com/96216947/146827153-dd5aadec-1a67-4856-92c8-fc8f49c1d454.png)
 ### Analysis of Outcomes Based on Goals
 The total number of successful, failed, and canceled projects were also plotting in relation to the fundraising goal of each project. As can be seen in the graph below, there appears to be a strong relationship  between fundingraising goal and project success. The data suggest the greater the fundraising goal the greater the likelihood the project will be unsuccessful.
-![image](https://user-images.githubusercontent.com/96216947/146826098-6aa13f4b-0113-4ca0-8de3-a22c7f63105b.png)
+![image](https://user-images.githubusercontent.com/96216947/146827172-ce06bd5f-04b1-4bca-9773-021ccdde5755.png)
 ### Challenges and Difficulties Encountered
 Estimated budger of over 10,000
 ## Results
