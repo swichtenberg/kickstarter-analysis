@@ -10,7 +10,7 @@ The total number of successful, failed, and canceled theater projects were plott
 ![image](https://user-images.githubusercontent.com/96216947/146678341-d972c3f1-f00e-4b07-9bb7-b821c37dfff1.png)
 ### Analysis of Outcomes Based on Goals
 The total number of successful, failed, and canceled projects were also plotting in relation to the fundraising goal of each project. As can be seen in the graph below, there appears to be a strong relationship  between fundingraising goal and project success. The data suggest the greater the fundraising goal the greater the likelihood the project will be unsuccessful.
-![image](https://user-images.githubusercontent.com/96216947/146678255-93e543ca-6250-4909-92da-906dc48409ba.png)
+![image](https://user-images.githubusercontent.com/96216947/146826098-6aa13f4b-0113-4ca0-8de3-a22c7f63105b.png)
 ### Challenges and Difficulties Encountered
 Estimated budger of over 10,000
 ## Results
