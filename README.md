@@ -7,9 +7,11 @@ The purpose of the project is to gain a greater understanding of the factors tha
 Data from over 4,000 Kickstarter projects were analyzed. The data included both completed and live projects from around the world in several categories (e.g., technology, film, theater).
 ### Analysis of Outcomes Based on Launch Date
 First, the outcome of theater projects based on launch date was visualized (below). As can be seen in the graph, there is a peak in successful theater projects in May with a greater numbers of successful projects throughout the summer months. The number of failed and canceled projects is also fairly consistent throughout the year.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96216947/147412100-12993fc9-bc50-4d63-ac6a-37cb75e6175a.png)
 ### Analysis of Outcomes Based on Goals
 Second, the outcome of play projects based on fundraising goal was visualized (below). As can be seen in the graph, the percent of failed projects increases as the total fundraising goal increases. Likewise, the percent of successful projects decreases as the fundraising goal increases.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96216947/147412104-06e75aaf-980c-4365-8828-382b728f07bb.png)
 ### Challenges and Difficulties Encountered
 No challenges or difficulties were encountered; however, challenges and difficulties could have included issues with the raw data. Overall, the Kickstarter data was relatively clean and required little manipulation. It is possible the data could have been poorly organized/formatted and did not include the necessary information for the desired analysis. Another difficulty may have been too little data (i.e., small sample size) to complete the analysis.
